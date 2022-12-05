@@ -1,3 +1,4 @@
-KEY1: "VAL1"
-KEY2: "VAL2"
-KEY3: "<VAL3"
+app:
+  env: dev
+  token: some_random_token
+  secret_data: shhhhh_its_a_secret
